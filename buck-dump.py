@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Buck-Dump is a tool to quickly enumerate AWS S3 buckets to look for loot.
 # It's similar to a subdomain bruteforcer but is made specifically to S3
